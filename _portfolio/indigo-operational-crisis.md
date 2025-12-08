@@ -1,4 +1,10 @@
-
+---
+title: "The IndiGo Operational Crisis 2025"
+date: 2025-12-08T08:35:00-04:00
+categories:
+  - case studies
+tags:
+---
 
 
 
