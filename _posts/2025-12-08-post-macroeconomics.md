@@ -271,6 +271,156 @@ Answer: Propagation Mechanisms amplify short-term shocks.
 - **Example (Inventories):** A firm fooled by a monetary shock sells off its inventory to meet demand. Even after realizing the "trick," the firm keeps production high for months to **rebuild its inventory** back to normal levels.
 
 
+# 🗝️ Keynesianism: Wage & Price Rigidity
+
+**Core Thesis:** Unlike Classicals, Keynesians argue that wages and prices **do not** adjust rapidly to clear markets. This "stickiness" prevents the economy from remaining at full employment automatically.
+
+## 1. 🏗️ Real-Wage Rigidity
+
+**The Problem:** Keynesians reject the idea that unemployment is solely due to "mismatch" (frictional/structural). They argue recessions represent generally low demand, where real wages remain too high to clear the labor market.
+
+### **Why don't firms cut wages?**
+
+While minimum wages and unions play a small role in the U.S., the primary explanation is the **Efficiency Wage Model**.
+
+### **The Efficiency Wage Model**
+
+**Premise:** Higher wages lead to higher worker productivity.
+
+- 🥕 **The Carrot (Gift Exchange):** Workers feel treated fairly and reciprocate with harder work (Akerlof).
+    
+- 🪵 **The Stick (Shirking Model):** High wages make job loss costly, discouraging "shirking" (laziness).
+    
+
+**The Effort Curve:**
+
+- S-shaped curve relating Real Wage ($w$) to Worker Effort ($E$).
+    
+- Firms choose the **Efficiency Wage ($w^*$)**: The wage that maximizes effort per dollar paid (tangent line from origin).
+    
+
+### **Labor Market Consequences**
+
+- **Rigidity:** Firms keep wages at $w^*$ regardless of labor supply.
+    
+- **Unemployment:** At $w^*$, Labor Supply ($NS$) > Labor Demand ($ND$). This creates persistent unemployment even at "full employment" equilibrium.
+    
+- **The FE Line:** In the Keynesian model, the FE line (Full Employment) is vertical. Crucially, **changes in Labor Supply do not shift the FE line** because employment is fixed by firms' demand at the efficiency wage.
+    
+
+---
+
+## 2. 🏷️ Price Stickiness (Nominal Rigidity)
+
+Goal: Explain why money is nonneutral (why $M \uparrow$ raises output).
+
+Concept: Prices are "sticky"—they adjust slowly.
+
+### **Sources of Stickiness**
+
+1. **Monopolistic Competition:** Most firms are "price setters," not "price takers" (like in a corn market). They have some power to set prices.
+    
+2. **Menu Costs:** The costs of changing prices (reprinting menus, catalogs, re-tagging items). If the profit loss from a "wrong" price is smaller than the menu cost, the firm won't change the price.
+    
+
+### **Meeting Demand**
+
+- Because firms are monopolistic competitors, price ($P$) > marginal cost ($MC$) (Markup rule).
+    
+- If demand rises, $P$ is still $> MC$, so firms are profitable. They **meet the demand** at the fixed price by increasing output and employment, pushing the economy off the FE line.
+    
+- **Effective Labor Demand:** To produce more output to meet demand, firms hire more workers along the effective labor demand curve.
+    
+
+---
+
+## 3. 📉 Monetary & Fiscal Policy (Keynesian Model)
+
+Because prices are sticky, the economy does not stay on the FE line in the short run. Output is determined by **Aggregate Demand** (intersection of IS and LM).
+
+### **A. Monetary Policy ($M \uparrow$)**
+
+- **Short Run (Sticky Prices):**
+    
+    1. $M \uparrow$ shifts **LM down/right** ($LM_1 \to LM_2$).
+        
+    2. Real interest rate ($r$) falls.
+        
+    3. Output ($Y$) rises to $Y_2$ (Boom).
+        
+    4. **Result:** Money is **Nonneutral** (Real effects exist).
+        
+- **Long Run (Flexible Prices):**
+    
+    1. $Y > \bar{Y}$ (Overheating).
+        
+    2. Firms eventually raise prices ($P \uparrow$).
+        
+    3. Real money supply ($M/P$) falls, shifting LM back to $LM_1$.
+        
+    4. **Result:** Money is **Neutral** (Only prices rise).
+        
+
+### **B. Fiscal Policy ($G \uparrow$ or $T \downarrow$)**
+
+- **Short Run:**
+    
+    1. $G \uparrow$ shifts **IS up/right** ($IS_1 \to IS_2$).
+        
+    2. Output ($Y$) rises; Employment ($N$) rises.
+        
+    3. **Multiplier Effect:** Output rises by more than the increase in $G$.
+        
+- **Long Run:**
+    
+    1. Prices rise due to excess demand.
+        
+    2. LM shifts left.
+        
+    3. Economy returns to full employment ($\bar{Y}$), but with a **higher real interest rate** (Crowding Out).
+        
+
+---
+
+## 4. 🎢 Business Cycles & Stabilization
+
+### **Keynesian Cycle Theory**
+
+- **Cause:** Cycles are driven primarily by **Aggregate Demand Shocks** (Shifts in IS or LM), not productivity shocks.
+    
+    - _Example:_ "Animal Spirits" (waves of optimism/pessimism) causing investment volatility.
+        
+- **Labor Hoarding:** Explains why productivity falls in recessions. Firms keep workers (hoard them) during downturns to avoid turnover costs, even if there isn't enough work.
+    
+
+### **Stabilization Policy**
+
+Keynesians favor active policy ("Aggregate Demand Management") to smooth cycles.
+
+**Scenario: A Recession (Point F)**
+
+1. **Do Nothing (Scenario 1):** Wait for prices to fall. LM shifts right. _Cons:_ Takes a long time; prolonged unemployment.
+    
+2. **Monetary Expansion (Scenario 2):** Fed increases $M$. LM shifts right immediately. _Pros:_ Faster recovery.
+    
+3. **Fiscal Expansion (Scenario 3):** Gov increases $G$. IS shifts right. _Pros:_ Faster recovery.
+    
+
+**Trade-off:** Active policy restores full employment faster but results in a **higher price level** than doing nothing.
+
+### **The Problem of Supply Shocks (Stagflation)**
+
+- **Event:** Adverse supply shock (e.g., Oil Price Spike).
+    
+- **Effect:** FE line shifts Left (Lower potential output). Prices rise (Cost-push). LM shifts Left.
+    
+- **Result:** **Stagflation** (High Inflation + High Unemployment).
+    
+- **Policy Dilemma:**
+    
+    - Increase AD? $\rightarrow$ Reduces unemployment but **worsens inflation**.
+        
+    - Decrease AD? $\rightarrow$ Curbs inflation but **worsens unemployment**.
 
 
 
