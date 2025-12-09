@@ -127,16 +127,16 @@ The shock affects both the goods market (IS) and the general equilibrium (FE).
     - **Real Wage ($w$):** Lower.
 ### **4. Policy Implications: Should Fiscal Policy Stabilize Cycles?**
 Despite the ability of fiscal policy to affect output, **Classical Economists argue AGAINST using it** to smooth business cycles.
-- **Argument 1: The "Invisible Hand" & Welfare**
-    - Classicals believe the economy is self-correcting and prices adjust rapidly.
-    - Although spending increases output, it does so by making workers **poorer** (forcing them to work more for lower wages). Intervention generally reduces welfare rather than improving it.
-    - **The Rule:** Government purchases should only occur if the _benefits_ (e.g., national security) exceed the _costs_ to taxpayers, not merely to boost output.
-- **Argument 2: Practical Lags**
-    - **Recognition Lag:** Time taken to identify the shock.
-    - **Legislative Lag:** Time taken to pass laws.
-    - **Implementation Lag:** Time taken to start projects.
-    - **Impact Lag:** Time taken for the economy to respond.
-    - _Result:_ By the time a policy takes effect, the economy may have already recovered, potentially destabilizing it further.
+     - **Argument 1: The "Invisible Hand" & Welfare**
+        - Classicals believe the economy is self-correcting and prices adjust rapidly.
+        - Although spending increases output, it does so by making workers **poorer** (forcing them to work more for lower wages). Intervention generally reduces welfare rather than improving it.
+       - **The Rule:** Government purchases should only occur if the _benefits_ (e.g., national security) exceed the _costs_ to taxpayers, not merely to boost output.
+    - **Argument 2: Practical Lags**
+        - **Recognition Lag:** Time taken to identify the shock.
+        - **Legislative Lag:** Time taken to pass laws.
+        - **Implementation Lag:** Time taken to start projects.
+        - **Impact Lag:** Time taken for the economy to respond.
+        - _Result:_ By the time a policy takes effect, the economy may have already recovered, potentially destabilizing it further.
  
 <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
