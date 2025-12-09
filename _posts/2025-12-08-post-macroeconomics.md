@@ -104,7 +104,9 @@ The classical view emphasizes that fiscal policy affects labor supply through a 
         - Equilibrium Employment ($N$) **increases** ($N_1 \to N_2$).
         - Real Wage ($w$) **decreases** ($w_1 \to w_2$).
     - **Full-Employment Output:** Because employment ($N$) rises, the full-employment level of output ($\bar{Y}$) increases.
+
 <img width="1322" height="766" alt="image" src="https://github.com/user-attachments/assets/38f7643a-9453-44a9-8785-43cdae9caf75" />
+
 ### **3. General Equilibrium Effects (The IS-LM-FE Model)**
 The shock affects both the goods market (IS) and the general equilibrium (FE).
 - **Step 1: The Shifts (Figure b)**
