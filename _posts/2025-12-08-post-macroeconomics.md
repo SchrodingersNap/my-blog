@@ -143,6 +143,7 @@ Despite the ability of fiscal policy to affect output, **Classical Economists ar
         - _Result:_ By the time a policy takes effect, the economy may have already recovered, potentially destabilizing it further.
 
 ### Comparison: Beneficial Productivity Shock vs. Expansionary Fiscal Shock
+
 | **Feature**             | **Beneficial Productivity Shock (RBC)**                                                           | **Expansionary Fiscal Shock (Classical)**                                                      |
 | ----------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | **Primary Driver**      | Technology improvement, good weather, new management techniques.                                  | Increase in Government Purchases ($G$) (e.g., War, Infrastructure).                            |
