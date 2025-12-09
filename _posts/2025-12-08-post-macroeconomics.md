@@ -28,7 +28,6 @@ tags:
 * **Long-Run Aggregate Supply (LRAS):**
     * Output is fixed at the full-employment level, regardless of price.
     * **Equation:** Vertical line where $Y = \bar{Y}$.
-
 ### 3. Equilibrium Solutions
 * **Short-Run Equilibrium:**
     * Occurs at the intersection of **AD** and **SRAS**.
@@ -40,9 +39,9 @@ tags:
  
 # Classical Business Cycle Analysis: Market-Clearing Macroeconomics
 ### **1. Classical Business Cycle Fundamentals**
-
 - **Core Belief:** Models are built on micro-foundations (utility and profit maximization) where markets always clear (prices and wages adjust rapidly).
 - **Primary Cause of Cycles:** Real shocks to the economy (disturbances to the "real side" like production functions or labor force size), rather than nominal shocks (money supply).
+
 ### **2. Real Business Cycle (RBC) Theory**
 **The Central Premise:**
 - Business cycles are driven primarily by **Productivity Shocks** (Supply Shocks).
@@ -88,8 +87,54 @@ $$Y = A (u_K K)^a (u_N N)^{1-a}$$
 - Acknowledging that productivity isn't the _only_ driver, modern models are called **DSGE (Dynamic Stochastic General Equilibrium)**.
 - These models incorporate both productivity shocks and other disturbances (like fiscal policy or war) into the market-clearing framework.
 
+# **Fiscal Policy Shocks in the Classical Model**
+### **1. The Shock: Temporary Increase in Government Purchases**
+In the classical model, fiscal policy shocks (like a military buildup or public works program) are a potential source of business cycles. We analyze a **temporary increase in real government purchases ($G$)**.
+### **2. Labor Market Effects (The Supply Side)**
+The classical view emphasizes that fiscal policy affects labor supply through a **Wealth Effect**.
+- **The Mechanism:**
+    - Higher government spending ($G \uparrow$) must be paid for by taxes (either current or future).
+    - This effectively makes individuals poorer (Negative Wealth Effect).
+    - Because workers feel poorer, they cannot afford as much leisure.
+    - **Result:** They supply _more_ labor to compensate.
+- **Diagrammatic Shift (Figure a):**
+    - **Labor Supply ($NS$):** Shifts to the right (from $NS^1$ to $NS^2$).
+    - **Labor Demand ($ND$):** No change (MPN is unaffected).
+    - **Outcome:**
+        - Equilibrium Employment ($N$) **increases** ($N_1 \to N_2$).
+        - Real Wage ($w$) **decreases** ($w_1 \to w_2$).
+    - **Full-Employment Output:** Because employment ($N$) rises, the full-employment level of output ($\bar{Y}$) increases.
 <img width="1322" height="766" alt="image" src="https://github.com/user-attachments/assets/38f7643a-9453-44a9-8785-43cdae9caf75" />
-
+### **3. General Equilibrium Effects (The IS-LM-FE Model)**
+The shock affects both the goods market (IS) and the general equilibrium (FE).
+- **Step 1: The Shifts (Figure b)**
+    - **FE Line:** Shifts to the right ($FE^1 \to FE^2$) because full-employment output has risen (due to the labor market changes described above).
+    - **IS Curve:** Shifts up and to the right ($IS^1 \to IS^2$).
+        - _Reason:_ Higher $G$ reduces desired national saving ($S_{nat} = Y - C - G$). To clear the goods market, the real interest rate must rise.
+- **Step 2: The Disequilibrium**
+    - The new IS curve ($IS^2$) typically intersects the original LM curve ($LM^1$) to the **right** of the new FE line ($FE^2$).
+    - This indicates that Aggregate Demand > Aggregate Supply.
+- **Step 3: Restoration of Equilibrium**
+    - The excess demand drives the **Price Level ($P$) up**.
+    - A rise in $P$ reduces the real money supply ($M/P$).
+    - **LM Curve:** Shifts up and to the left ($LM^1 \to LM^2$).
+- **Final Result (Point F):**
+    - **Output ($Y$):** Higher.
+    - **Real Interest Rate ($r$):** Higher.
+    - **Price Level ($P$):** Higher.
+    - **Real Wage ($w$):** Lower.
+### **4. Policy Implications: Should Fiscal Policy Stabilize Cycles?**
+Despite the ability of fiscal policy to affect output, **Classical Economists argue AGAINST using it** to smooth business cycles.
+- **Argument 1: The "Invisible Hand" & Welfare**
+    - Classicals believe the economy is self-correcting and prices adjust rapidly.
+    - Although spending increases output, it does so by making workers **poorer** (forcing them to work more for lower wages). Intervention generally reduces welfare rather than improving it.
+    - **The Rule:** Government purchases should only occur if the _benefits_ (e.g., national security) exceed the _costs_ to taxpayers, not merely to boost output.
+- **Argument 2: Practical Lags**
+    - **Recognition Lag:** Time taken to identify the shock.
+    - **Legislative Lag:** Time taken to pass laws.
+    - **Implementation Lag:** Time taken to start projects.
+    - **Impact Lag:** Time taken for the economy to respond.
+    - _Result:_ By the time a policy takes effect, the economy may have already recovered, potentially destabilizing it further.
  
 <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
