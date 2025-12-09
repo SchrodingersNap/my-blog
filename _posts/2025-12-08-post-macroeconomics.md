@@ -142,6 +142,38 @@ Despite the ability of fiscal policy to affect output, **Classical Economists ar
         - **Impact Lag:** Time taken for the economy to respond.
         - _Result:_ By the time a policy takes effect, the economy may have already recovered, potentially destabilizing it further.
 
+### Comparison: Beneficial Productivity Shock vs. Expansionary Fiscal Shock
+| **Feature**             | **Beneficial Productivity Shock (RBC)**                                                           | **Expansionary Fiscal Shock (Classical)**                                                      |
+| ----------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Primary Driver**      | Technology improvement, good weather, new management techniques.                                  | Increase in Government Purchases ($G$) (e.g., War, Infrastructure).                            |
+| **Key Mechanism**       | **Marginal Product of Labor ($MPN$) rises.** Firms want to hire more workers at any wage.         | **Negative Wealth Effect.** Higher taxes make workers poorer, so they supply more labor.       |
+| **Labor Market Shift**  | **Labor Demand ($ND$) shifts Right.**                                                             | **Labor Supply ($NS$) shifts Right.**                                                          |
+| **Output ($Y$)**        | **Increases**                                                                                     | **Increases**                                                                                  |
+| **Employment ($N$)**    | **Increases**                                                                                     | **Increases**                                                                                  |
+| **Real Wage ($w$)**     | **Increases** (Procyclical)<br><br>  <br><br>_(Demand for labor outstrips supply)_                | **Decreases** (Countercyclical)<br><br>  <br><br>_(Supply of labor outstrips demand)_          |
+| **Price Level ($P$)**   | **Decreases** (Countercyclical)<br><br>  <br><br>_(Supply of goods increases relative to demand)_ | **Increases** (Procyclical)<br><br>  <br><br>_(Demand for goods increases relative to supply)_ |
+| **Labor Productivity**  | **Increases**<br><br>  <br><br>_(Better tech means more output per worker)_                       | **Decreases**<br><br>  <br><br>_(Diminishing returns: more workers on same capital)_           |
+| **Interest Rate ($r$)** | **Decreases**<br><br>  <br><br>_(Usually, as saving rises to smooth consumption)_                 | **Increases**<br><br>  <br><br>_(Government competes for funds, lowering national saving)_     |
+
+### **Key Takeaways for Analysis**
+- **The "Wage" Test:** If you see a boom where real wages are **falling**, it supports the Fiscal/Classical view (workers working harder because they are poorer). If wages are **rising**, it supports the RBC view (workers are more valuable due to tech).
+- **The "Price" Test:** RBC theory struggles to explain why prices usually rise during booms (since supply shocks should lower prices). Fiscal shocks explain inflation during booms well.
+- **The "Productivity" Test:** RBC fits the data well here—productivity usually rises in booms. Fiscal shocks imply productivity should fall (due to diminishing returns), which contradicts most historical data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
