@@ -1,5 +1,5 @@
 ---
-title: "The Core Pivot: Redefining "Sustainability""
+title: "The Core Pivot: Redefining Sustainability"
 date: 2025-12-10
 categories:
   - blog
