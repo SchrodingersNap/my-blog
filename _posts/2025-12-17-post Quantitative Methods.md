@@ -1,4 +1,3 @@
-Here are the notes rewritten using **Unicode symbols**. You can copy and paste this directly into your GitHub page, and the symbols (like x̄, σ, μ) will display correctly without any special code.
 
 ---
 
